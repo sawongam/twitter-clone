@@ -1,2 +1,2 @@
 # twitter-clone
-This is a twitter clone made using only HTML & CSS.
+This is a twitter homepage clone made using only HTML & CSS.
